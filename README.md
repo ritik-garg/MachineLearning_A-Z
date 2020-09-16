@@ -36,7 +36,6 @@ This is the first course I took on machine learning. This course strengthened my
 ### Part 5: Association Rule Learning
 ```
 • Apriori
-• Eclat
 ```
 
 ### Part 6: Reinforcement Learning
